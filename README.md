@@ -77,7 +77,11 @@ Welcome to **The Wild Oasis**, a hotel management application designed for hotel
 ## Images 
 
 ![login](https://github.com/user-attachments/assets/66e69d5b-5440-4b98-95a3-ee30277616eb)
+
+
 ---
+
+
 ![lightDashboard](https://github.com/user-attachments/assets/7a65de38-3239-4e82-a3d6-67265234d05c)
 ![darkDashboard](https://github.com/user-attachments/assets/811ae161-1bc1-4232-bcb9-86854499596b)
 ![bookings](https://github.com/user-attachments/assets/71b86dfd-f39d-405b-8298-eb4b25595214)
