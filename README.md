@@ -5,7 +5,7 @@ Welcome to **The Wild Oasis**, a hotel management application designed for hotel
 ## 🚀 Live Demo
 
 - **Admin Version**: [the-wild-oasis-zoz](https://the-wild-oasis-zoz.netlify.app/)
-- **Customer Version**: [The Wild Oasis - Customer]((https://github.com/Ahmedabdelaziz77/the-wild-oasis-website))
+- **Customer Version**: [The Wild Oasis - Customer](https://github.com/Ahmedabdelaziz77/the-wild-oasis-website)
 
 ## Key Features 📝
 
